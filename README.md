@@ -1,6 +1,6 @@
 # [ASU](http://www.amstat.org/) DataFest2018
-Penn State University
 # [News](https://greatvalley.psu.edu/story/2363/2018/05/29/great-valley-graduate-students-place-second-data-analysis-competition)
+Penn State University
 
 Team : Analytical Assassins
 
